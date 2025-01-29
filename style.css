@@ -60,7 +60,8 @@
     cursor: pointer;
     margin-top: 20px;
     font-size: 17px;
-    background: #000000;
+    background: #1b1b1b;
+    border-radius: 50px;
   }
   .qr-code{
     opacity: 0;
